@@ -1,0 +1,12 @@
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Services\bin\Debug\net5.0\ApiRest.Services.deps.json
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Services\bin\Debug\net5.0\ApiRest.Services.dll
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Services\bin\Debug\net5.0\ref\ApiRest.Services.dll
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Services\bin\Debug\net5.0\ApiRest.Services.pdb
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Services\obj\Debug\net5.0\ApiRest.Services.csproj.AssemblyReference.cache
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Services\obj\Debug\net5.0\ApiRest.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Services\obj\Debug\net5.0\ApiRest.Services.AssemblyInfoInputs.cache
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Services\obj\Debug\net5.0\ApiRest.Services.AssemblyInfo.cs
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Services\obj\Debug\net5.0\ApiRest.Services.csproj.CoreCompileInputs.cache
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Services\obj\Debug\net5.0\ApiRest.Services.dll
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Services\obj\Debug\net5.0\ref\ApiRest.Services.dll
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Services\obj\Debug\net5.0\ApiRest.Services.pdb

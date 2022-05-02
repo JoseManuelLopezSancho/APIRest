@@ -1,0 +1,15 @@
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Entities\bin\Debug\net5.0\ApiRest.Entities.deps.json
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Entities\bin\Debug\net5.0\ApiRest.Entities.dll
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Entities\bin\Debug\net5.0\ref\ApiRest.Entities.dll
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Entities\bin\Debug\net5.0\ApiRest.Entities.pdb
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Entities\obj\Debug\net5.0\ApiRest.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Entities\obj\Debug\net5.0\ApiRest.Entities.AssemblyInfoInputs.cache
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Entities\obj\Debug\net5.0\ApiRest.Entities.AssemblyInfo.cs
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Entities\obj\Debug\net5.0\ApiRest.Entities.csproj.CoreCompileInputs.cache
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Entities\obj\Debug\net5.0\ApiRest.Entities.dll
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Entities\obj\Debug\net5.0\ref\ApiRest.Entities.dll
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Entities\obj\Debug\net5.0\ApiRest.Entities.pdb
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Entities\bin\Debug\net5.0\ApiRest.Abstractions.dll
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Entities\bin\Debug\net5.0\ApiRest.Abstractions.pdb
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Entities\obj\Debug\net5.0\ApiRest.Entities.csproj.AssemblyReference.cache
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Entities\obj\Debug\net5.0\ApiRest.Entities.csproj.CopyComplete

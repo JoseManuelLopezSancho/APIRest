@@ -1,0 +1,12 @@
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Abstractions\bin\Debug\net5.0\ApiRest.Abstractions.deps.json
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Abstractions\bin\Debug\net5.0\ApiRest.Abstractions.dll
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Abstractions\bin\Debug\net5.0\ref\ApiRest.Abstractions.dll
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Abstractions\bin\Debug\net5.0\ApiRest.Abstractions.pdb
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Abstractions\obj\Debug\net5.0\ApiRest.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Abstractions\obj\Debug\net5.0\ApiRest.Abstractions.AssemblyInfoInputs.cache
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Abstractions\obj\Debug\net5.0\ApiRest.Abstractions.AssemblyInfo.cs
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Abstractions\obj\Debug\net5.0\ApiRest.Abstractions.csproj.CoreCompileInputs.cache
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Abstractions\obj\Debug\net5.0\ApiRest.Abstractions.dll
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Abstractions\obj\Debug\net5.0\ref\ApiRest.Abstractions.dll
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Abstractions\obj\Debug\net5.0\ApiRest.Abstractions.pdb
+D:\Proyectos\ApiRest\ApiRest\ApiRest.Abstractions\obj\Debug\net5.0\ApiRest.Abstractions.csproj.AssemblyReference.cache

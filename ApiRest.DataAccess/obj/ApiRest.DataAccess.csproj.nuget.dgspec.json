@@ -1,0 +1,242 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Proyectos\\ApiRest\\ApiRest\\ApiRest.DataAccess\\ApiRest.DataAccess.csproj": {}
+  },
+  "projects": {
+    "D:\\Proyectos\\ApiRest\\ApiRest\\ApiRest.Abstractions\\ApiRest.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Proyectos\\ApiRest\\ApiRest\\ApiRest.Abstractions\\ApiRest.Abstractions.csproj",
+        "projectName": "ApiRest.Abstractions",
+        "projectPath": "D:\\Proyectos\\ApiRest\\ApiRest\\ApiRest.Abstractions\\ApiRest.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\jmlop\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos\\ApiRest\\ApiRest\\ApiRest.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jmlop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Proyectos\\ApiRest\\ApiRest\\ApiRest.DataAccess\\ApiRest.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Proyectos\\ApiRest\\ApiRest\\ApiRest.DataAccess\\ApiRest.DataAccess.csproj",
+        "projectName": "ApiRest.DataAccess",
+        "projectPath": "D:\\Proyectos\\ApiRest\\ApiRest\\ApiRest.DataAccess\\ApiRest.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\jmlop\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos\\ApiRest\\ApiRest\\ApiRest.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jmlop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Proyectos\\ApiRest\\ApiRest\\ApiRest.Abstractions\\ApiRest.Abstractions.csproj": {
+                "projectPath": "D:\\Proyectos\\ApiRest\\ApiRest\\ApiRest.Abstractions\\ApiRest.Abstractions.csproj"
+              },
+              "D:\\Proyectos\\ApiRest\\ApiRest\\ApiRest.Entities\\ApiRest.Entities.csproj": {
+                "projectPath": "D:\\Proyectos\\ApiRest\\ApiRest\\ApiRest.Entities\\ApiRest.Entities.csproj"
+              },
+              "D:\\Proyectos\\ApiRest\\ApiRest\\ApiRest.Services\\ApiRest.Services.csproj": {
+                "projectPath": "D:\\Proyectos\\ApiRest\\ApiRest\\ApiRest.Services\\ApiRest.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Proyectos\\ApiRest\\ApiRest\\ApiRest.Entities\\ApiRest.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Proyectos\\ApiRest\\ApiRest\\ApiRest.Entities\\ApiRest.Entities.csproj",
+        "projectName": "ApiRest.Entities",
+        "projectPath": "D:\\Proyectos\\ApiRest\\ApiRest\\ApiRest.Entities\\ApiRest.Entities.csproj",
+        "packagesPath": "C:\\Users\\jmlop\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos\\ApiRest\\ApiRest\\ApiRest.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jmlop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Proyectos\\ApiRest\\ApiRest\\ApiRest.Abstractions\\ApiRest.Abstractions.csproj": {
+                "projectPath": "D:\\Proyectos\\ApiRest\\ApiRest\\ApiRest.Abstractions\\ApiRest.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Proyectos\\ApiRest\\ApiRest\\ApiRest.Services\\ApiRest.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Proyectos\\ApiRest\\ApiRest\\ApiRest.Services\\ApiRest.Services.csproj",
+        "projectName": "ApiRest.Services",
+        "projectPath": "D:\\Proyectos\\ApiRest\\ApiRest\\ApiRest.Services\\ApiRest.Services.csproj",
+        "packagesPath": "C:\\Users\\jmlop\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos\\ApiRest\\ApiRest\\ApiRest.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jmlop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
